@@ -1,0 +1,1 @@
+Third OTUS homework on C++ language. This application is game where user should guess concieved number.
